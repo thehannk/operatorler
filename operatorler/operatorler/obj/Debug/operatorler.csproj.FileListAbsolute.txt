@@ -1,0 +1,3 @@
+C:\Users\hank\Desktop\framework\operatorler\operatorler\obj\Debug\operatorler.csproj.AssemblyReference.cache
+C:\Users\hank\Desktop\framework\operatorler\operatorler\obj\Debug\operatorler.csproj.SuggestedBindingRedirects.cache
+C:\Users\hank\Desktop\framework\operatorler\operatorler\obj\Debug\operatorler.csproj.CoreCompileInputs.cache
